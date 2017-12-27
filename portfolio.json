@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "name": "bitcoin",
+      "amount": 0.01
+    },
+    {
+      "name": "iota",
+      "amount": 20
+    },
+    {
+      "name": "ethereum",
+      "amount": 0.5
+    },
+    {
+      "name": "litecoin",
+      "amount": 1
+    },
+    {
+      "name": "monero",
+      "amount": 0.1
+    }
+  ]
+}
